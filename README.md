@@ -14,7 +14,8 @@ Use the offical cards for special and additional information.
 
 cd to project repo, run :
 
-```python3 main.py
+```shell
+python3 main.py
 ```
 
 Enter number of players -> enter players folder.
